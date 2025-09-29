@@ -1,3 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I’m Mai Nguyen  
 
-I’m an undergraduate at KAIST School of Computing, working at the intersection of software engineering and HCI research. I enjoy the full journey of creating from scratch — from prototyping to launching real, usable products. I’ve won two hackathons in Korea and once interned at BLOCK71, one of the most active and influential startup hubs in Southeast Asia. These days, I split my time between coding and research. At the CSTL Lab with Prof. Joseph Seering, I dive into questions around trust, safety, and harmful behavior on online platforms. I also care deeply about climate tech. In the past, at the IMPACT Lab with Prof. Soh Young In, I explored how data science and ESG can inform better urban design and more resilient infrastructure. I’m currently looking for opportunities where I can combine hands-on product development with thoughtful research to create real-world impact.
+- **Fullstack Developer with interests in AI, HCI, and Climate Tech**  
+- Undergraduate in **Computer Science @ KAIST**  
+- Based in **Daejeon, South Korea** 
+
+**🚀 About Me**
+
+- Build end-to-end: from **prototyping** to **deployment** of production-ready software  
+- Experience across **mobile, web, and backend systems**  
+- Research background in **online trust & safety** (CSTL Lab) and **data-driven sustainability** (IMPACT Lab)  
+- Strong interest in applying **AI and engineering** to health and climate challenges   
+
+
+**🧑‍💻 Skills**
+
+**Languages**  
+`Python` • `Java` • `C++` • `JavaScript` • `TypeScript` • `SQL`  
+
+**Frameworks & Tools**  
+`React` • `Vue` • `Node.js` • `Express` • `MongoDB` • `Django` • `Flutter` • `AWS` • `Docker`  
+
+
+
+**🏅 Awards**
+
+- **Grand Prize** – KAIST-Asan UniverCT 2024 Climate Tech Innovation Sprint (Daejeon, 2024) 
+- **Runner-up** – KAIST Global Entrepreneurship Pitching Competition (Silicon Valley, 2023)  
+- **First Place** – TEC Startup Program 2024 (Hanoi, 2024)  
+- **Top 20** – UNDP Youth Digital Innovation Challenge (Hanoi, 2025)  
+
+
+
+**💼 Experience**
+
+**PhyxUp Health (Software Engineer Intern)** *(Jun 2025 – Aug 2025)*  
+> *Stack: Flutter, Dart, Firebase, AWS, Django*  
+
+**Finbud AI (Software Engineer Intern)** *(Dec 2024 – Jun 2025)*  
+> *Stack: Vue, React, Node.js, Express, MongoDB*  
+
+
+**📫 Contact**
+ 
+📧 **mainguyenngoc513@gmail.com**  
+
